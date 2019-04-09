@@ -1,3 +1,8 @@
+This project was done in 3 phases.
+1st Phase: Basic linux commands like cd,mkdir,ls etc.
+2nd Phase: More commands like piping and redirections.
+3rd phase: Handling signals like Cntrl+C,Cntrl+Z etc.
+
 -->This directory contains
 		--->main.c ----- It contains main() 
 		--->parse.c ---- It contains function for tokenising the input
